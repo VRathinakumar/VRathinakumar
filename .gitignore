@@ -1,0 +1,5 @@
+#mention the files that you do not want git to track
+
+*.log
+*.txt
+*.xml
